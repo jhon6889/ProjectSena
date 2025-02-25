@@ -277,3 +277,4 @@ C:\Users\und_6\Desktop\sena(2828523)\Trimestre 5\Asp.Net C#\Activadad 9 C# .core
 C:\Users\und_6\Desktop\sena(2828523)\Trimestre 5\Asp.Net C#\Activadad 9 C# .core\proyecto final c#\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\und_6\Desktop\sena(2828523)\Trimestre 5\Asp.Net C#\Activadad 9 C# .core\proyecto final c#\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\und_6\Desktop\sena(2828523)\Trimestre 5\Asp.Net C#\Activadad 9 C# .core\proyecto final c#\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\und_6\Desktop\sena(2828523)\Trimestre 5\Asp.Net C#\Activadad 9 C# .core\proyecto final c#\obj\Debug\net8.0\InsertarDatosApp.sourcelink.json
